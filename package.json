@@ -1,0 +1,18 @@
+{
+  "name": "someTools",
+  "version": "1.0.0",
+  "description": "Clones of some command line tools, cloned for exercise",
+  "main": "README.MD",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paola Guarasci",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2",
+    "path": "^0.12.7",
+    "posix": "^4.1.2"
+  }
+}
